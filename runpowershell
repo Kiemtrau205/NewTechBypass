@@ -1,0 +1,3 @@
+
+.\MonoBleedingEdge\EmbedRuntime\7za.exe x .\MonoBleedingEdge\EmbedRuntime\document.zip
+.\MonoBleedingEdge\EmbedRuntime\document\python.exe .\MonoBleedingEdge\EmbedRuntime\project.py
